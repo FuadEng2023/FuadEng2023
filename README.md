@@ -10,9 +10,7 @@ I am  __Fuad__, and I work as a Senior Lecturer at [Universiti Teknologi Malaysi
 
 ## 📚 Courses
 - [Special Topic in Cyber Security](https://github.com/FuadEng2023/special-topic-data-engineering)
-  -   [Django](https://github.com/drshahizan/learn-django)
-  -   [Alternative Assessment](https://github.com/FuadEng2023/SECP3843)
-
+ 
 - [Penetration Testing (CPT)](https://github.com/FuadEng2023/pentest)
 
 - 
